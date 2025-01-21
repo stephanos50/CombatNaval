@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23 avr. 2018, 00:58:55
+    Author     : stefanos
+*/
+
+
+.text  {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #6495ED;
+    -fx-margin: 0 10 0 10;
+    -fx-padding: 10 0 10 0;
+    
+}
+.vbox {
+    
+    -fx-background-color: #2f4f4f;
+    -fx-padding: 20 0 20 0;
+    -fx-margin: 0 20 0 20;
+    -fx-spacing: 10;
+}

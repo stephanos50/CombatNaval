@@ -1,0 +1,86 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28 mars 2018, 16:44:44
+    Author     : stefanos
+*/
+
+.classic {
+    -fx-border-color: black;  
+    -fx-background-position: center;
+    -fx-background-size: stretch;
+    -fx-background-image: url("../images/mine/classic.jpg");
+}
+
+.move {
+    -fx-border-color: black;  
+    -fx-background-position: center;
+    -fx-background-size: stretch;
+    -fx-background-image: url("../images/move.jpg");
+}
+
+
+.eau {
+    -fx-border-color: black;
+    -fx-background-position: center;
+    -fx-background-size: stretch;
+    -fx-background-image: url("../images/mer.jpg");
+}
+
+.shoot {
+    -fx-border-color: black;
+    -fx-background-position: center;
+    -fx-background-size: stretch;
+    -fx-background-image: url("../images/shoot.png");
+}
+
+
+.atomic {
+    -fx-border-color: black;
+    -fx-background-position: center;
+    -fx-background-size: stretch;
+    -fx-background-image: url("../images/shoot.png");
+}
+
+
+
+.a1_petit {
+    -fx-border-color: black;
+    -fx-background-position: center;
+    -fx-background-size: stretch;
+    -fx-background-image: url("../images/bateau/a1_petit.png");
+}
+
+.a1_grand {
+    -fx-border-color: black;
+    -fx-background-position: center;
+    -fx-background-size: stretch;
+    -fx-background-image: url("../images/bateau/a1_grand.png");
+}
+
+
+.a2_petit {
+    -fx-border-color: black;
+    -fx-background-position: center;
+    -fx-background-size: stretch;
+    -fx-background-image: url("../images/bateau/a2_petit.png");
+}
+
+.a2_grand {
+    -fx-border-color: black;
+    -fx-background-position: center;
+    -fx-background-size: stretch;
+    -fx-background-image: url("../images/bateau/a2_grand.png");
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/9.0.4" xmlns:fx="http://javafx.com/fxml/1">
+   <bottom>
+      <VBox prefHeight="78.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <TextField alignment="CENTER" text="Hello" />
+         </children>
+         <opaqueInsets>
+            <Insets left="100.0" right="100.0" />
+         </opaqueInsets>
+      </VBox>
+   </bottom>
+</BorderPane>

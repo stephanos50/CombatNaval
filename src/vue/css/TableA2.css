@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18 mai 2018, 12:17:29
+    Author     : stefanos
+*/
+
+.table-view{
+    -fx-background-color: red;
+}
+
+.table-view:focused{
+    -fx-background-color: red;
+}
+
+.table-view .column-header-background .label{
+    -fx-background-color: transparent;
+    -fx-text-fill: red;
+    -fx-font-size: 15px;
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+}
+
+.table-view .table-cell{
+    -fx-text-fill: red;
+    -fx-alignment: center;
+    -fx-font-size: 15px;
+}
