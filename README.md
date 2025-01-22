@@ -1,6 +1,6 @@
 Voici un exemple de fichier README pour les itérations 2 et 3 de votre projet :
 
-```markdown
+
 # Projet d'Analyse et de Conception d'Application : Combat Naval
 
 ## Description du Projet
@@ -92,11 +92,7 @@ Ce projet propose une version revisitée du jeu de Combat Naval, développée en
 
 ---
 
-## Équipe de Développement
 
-- Membres :
-  - [Nom du Membre 1]
-  - [Nom du Membre 2]
 
 
 
