@@ -1,5 +1,6 @@
 Voici un exemple de fichier README pour les itérations 2 et 3 de votre projet :
 
+Anc3 Etudiants 2017-2018 /
 
 # Projet d'Analyse et de Conception d'Application : Combat Naval
 
